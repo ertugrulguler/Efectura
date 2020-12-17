@@ -1,0 +1,7 @@
+C:\Users\ertug\source\repos\Efectura\Efectura\bin\Debug\Efectura.exe.config
+C:\Users\ertug\source\repos\Efectura\Efectura\bin\Debug\Efectura.exe
+C:\Users\ertug\source\repos\Efectura\Efectura\bin\Debug\Efectura.pdb
+C:\Users\ertug\source\repos\Efectura\Efectura\obj\Debug\Efectura.csprojAssemblyReference.cache
+C:\Users\ertug\source\repos\Efectura\Efectura\obj\Debug\Efectura.csproj.CoreCompileInputs.cache
+C:\Users\ertug\source\repos\Efectura\Efectura\obj\Debug\Efectura.exe
+C:\Users\ertug\source\repos\Efectura\Efectura\obj\Debug\Efectura.pdb
